@@ -2,8 +2,9 @@
 
 ### Navigation
 
-1. [Level 1](#level-1)
-2. [Level 2](#level-2)
+1. [Status](status.md)
+2. [Level 1](#level-1)
+3. [Level 2](#level-2)
 
 ### Level 1
 * [Lesson 1](Level 1/lesson-1.md)
@@ -27,8 +28,8 @@
   - **Who / Whose**
 
 * [Lesson 5](Level 1/lesson-5.md)
-  - **It / one **
-  - ** There is / There are**
+  - **It / one**
+  - **There is / There are**
 
 * [Lesson 6](Level 1/lesson-6.md)
   - **Some** and **any**
@@ -71,16 +72,16 @@
 
 ### Level 2
 
-* [Lesson 1](Level 2/lesson-1.md)
+* [Lesson 15](Level 2/lesson-15.md)
   - **How far...?**
   - **It takes...**
   - **Tag questions**
   - **Образование глаголов из прилагательных**
 
-* [Lesson 2](Level 2/lesson-2.md)
+* [Lesson 16](Level 2/lesson-16.md)
   - **Элементы отрицания в вопросительных предложениях**
 
-* [Lesson 3](Level 2/lesson-3.md)
+* [Lesson 17](Level 2/lesson-17.md)
   - **Separable two-words verbs**
   - **Verb + gerund**
   - **Who** as subject
