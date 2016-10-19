@@ -18,7 +18,7 @@
 - [ ] Lesson 15
 - [ ] Lesson 16
 - [x] Lesson 17
-- [ ] Lesson 18
+- [x] Lesson 18
 - [ ] Lesson 19
 - [ ] Lesson 20
 - [ ] Lesson 21

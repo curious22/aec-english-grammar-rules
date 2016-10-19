@@ -87,3 +87,7 @@
   - **Who** as subject
   - **Feel like...**
   - **Отрицание между глаголами**
+
+* [Lesson 18](Level 2/lesson-18.md)
+  - **What is it like?**
+  - **Future tense `will`**
