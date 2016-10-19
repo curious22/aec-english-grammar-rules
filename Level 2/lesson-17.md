@@ -54,3 +54,37 @@ Consider, mention, practice, love.
 Continue, hate, escape, prefer,
 That's everything that you should know!
 ```
+
+### Who as a subject
+
+Если в _вопросительном_ предложении **who** стоит на месте подлежащего, то вспомогательный глагол опускается, а смысловой глагол принимает такую же форму как в утвердительном предложении соответствующего грамматического времени.
+
+```
+Wrong:
+Who does work at the store?
+Who did got to the party last night?
+```
+```
+Right
+Who works at the store?
+Who went to the party last night?
+```
+Если вопрос **who** задается не к подлежащему (кто?), а к дополнению (с кем?), поэтому в вопросах присутствует вспомогательный глагол: Who **does** she usually play with?
+
+
+### Feel like ...
+
+Выражение **feel like** на русский язык переводится _хотеться_. Оно употребляется после подлежащего; после **feel like** используется герундий (глагол с окончанием **-ing**).
+```
+I feel like going home. - Мне бы хотелось пойти домой.
+Bob feels like doing his homework. - Бобу хочется выполнить домашнее задание.
+We don't feel like studying. - Нам не хочется заниматься.
+```
+
+### Отрицание между глаголами
+
+В отрицательных выражениях между двумя глаголами ставится отрицательная частица **not**.
+```
+He wanted to work.        He decided to pay the bill.
+He wanted not to work.    He decided not to pay the bill.
+```
