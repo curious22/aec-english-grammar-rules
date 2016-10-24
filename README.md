@@ -91,3 +91,8 @@
 * [Lesson 18](Level 2/lesson-18.md)
   - **What is it like?**
   - **Future tense `will`**
+
+* [Lesson 19](Level 2/lesson-19.md)
+  - **Inseparable two-words verbs**
+  - **explain to...**
+  - **Прелоги в значении прилагательных**
