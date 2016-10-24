@@ -19,7 +19,7 @@
 - [ ] Lesson 16
 - [x] Lesson 17
 - [x] Lesson 18
-- [ ] Lesson 19
+- [x] Lesson 19
 - [ ] Lesson 20
 - [ ] Lesson 21
 - [ ] Lesson 22
