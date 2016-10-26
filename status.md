@@ -16,7 +16,7 @@
 
 **Level 2**
 - [ ] Lesson 15
-- [ ] Lesson 16
+- [x] Lesson 16
 - [x] Lesson 17
 - [x] Lesson 18
 - [x] Lesson 19
