@@ -96,3 +96,9 @@
   - **Inseparable two-words verbs**
   - **explain to...**
   - **Прелоги в значении прилагательных**
+
+* [Lesson 20](Level 2/lesson-20.md)
+  - `go` + глагол с окончанием `-ing`
+  - **Relative pronouns** `the one / the ones`
+  - **Элементы отрицания в вопросительных предложениях**
+  - **be able to**
